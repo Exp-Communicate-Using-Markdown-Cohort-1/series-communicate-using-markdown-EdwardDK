@@ -11,3 +11,9 @@
 ```
 console.log("I love this")
 ```
+## Languages I Know
+
+ - [x] HTML
+ - [x] CSS
+ - [x] JS
+- [ ] C++
